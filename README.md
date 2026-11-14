@@ -32,5 +32,7 @@ python skills/control-calidad-video/scripts/qc_video.py render/final.mp4
 ## El paquete completo
 Esta skill es una de las 7 de **ToMake AutoEditson Skills**. Las otras son dirección de spots, prompts de foto publicitaria, motion design en Remotion, guion corto con humor, investigación de contenido y trabajo por dictado.
 
+**Conseguilo en Gumroad:** https://intraptable.gumroad.com/l/tomake-skills (licencia personal USD 29, de equipo o agencia USD 79).
+
 ---
 Licencia MIT · ToMake AutoEditson
