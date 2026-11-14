@@ -36,3 +36,13 @@ Esta skill es una de las 7 de **ToMake AutoEditson Skills**. Las otras son direc
 
 ---
 Licencia MIT · ToMake AutoEditson
+
+---
+
+## English
+
+`skills/video-qc` is the English edition of the same free skill: an ffmpeg script that checks resolution, BT.709 color, loudness (LUFS), cuts and black frames, builds a contact sheet and gives a ship / don't-ship verdict.
+
+Install it into Claude Code with `cp -r skills/video-qc ~/.claude/skills/`. Requires Python 3.9+ and ffmpeg/ffprobe on your PATH.
+
+**Full package (7 skills, English):** https://intraptable.gumroad.com/l/agent-content-skills
